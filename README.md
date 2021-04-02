@@ -1,5 +1,8 @@
 # Budget Tracker 
 
+![budget screenshot](https://user-images.githubusercontent.com/71852138/113426671-cccdf700-93a1-11eb-8376-ae3f620a98d2.png)
+
+
 ## User Story
 
 AS AN avid traveler \
